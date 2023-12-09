@@ -84,24 +84,10 @@ gitalk:
   proxy:
 
 # 输入Google Analytics web tracking code
-google_analytics: <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4C6TVRFZR8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4C6TVRFZR8');
-</script>
+google_analytics: G-4C6TVRFZR8
 
 utteranc:
-  repo: <script src="https://utteranc.es/client.js"
-        repo="youmingnanhuo/youmingnanhuo.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script> # Your github repo path, also see: https://utteranc.es
+  repo: youmingnanhuo/youmingnanhuo.github.io
 
 #
 # !! 以下所有设置都不需要更改 !!
