@@ -16,7 +16,7 @@ url: https://youmingnanhuo.github.io/
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /youmingnanhuo.github.io
+baseurl: 
 
 
 #
@@ -55,7 +55,7 @@ footer-links:
   email: bru197838cris@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/youmingnanhuo https://github.com/youmingnanhuo
+  github: /youmingnanhuo https://github.com/youmingnanhuo
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
