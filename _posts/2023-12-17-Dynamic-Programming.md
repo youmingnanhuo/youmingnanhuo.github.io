@@ -8,8 +8,6 @@ comments: true
 toc: true
 ---
 
-# 动态规划（Dynamic Programming）
-
 ## 1. 概要
 ### 1.1 动态规划算法概念
 动态规划（dynamic programming）是运筹学的一个分支，是求解决策过程（decision process）最优化的数学方法
