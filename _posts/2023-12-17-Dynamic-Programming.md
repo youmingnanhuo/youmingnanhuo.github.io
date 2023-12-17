@@ -47,7 +47,7 @@ $$ f_k(x_k) = optV_{k,n}(x_k,p_{kn})$$ 其中$opt$可取$max$或$min$
 ![Snipaste_2023-12-17_17-32-38.png](https://s2.loli.net/2023/12/17/JVZtKd7iz4OHqWu.png)
 ![Snipaste_2023-12-17_17-32-54.png](https://s2.loli.net/2023/12/17/4Q6auVf5lFANyRr.png)
 ![Snipaste_2023-12-17_17-33-06.png](https://s2.loli.net/2023/12/17/bIzSGxHM6hAjXqs.png)
-###2.2.2 背包问题
+#### 2.2.2 背包问题
 ![Snipaste_2023-12-17_18-23-49.png](https://s2.loli.net/2023/12/17/5tlkE7QPnO4ucyh.png)
 ```
 #n：物品件数；c:最大承重为c的背包；w:各个物品的重量；v:各个物品的价值
@@ -89,7 +89,7 @@ if __name__=='__main__':
     show(n,c,w,res)
 ```
 
-### 2.2.3 生产计划问题
+#### 2.2.3 生产计划问题
 ![Snipaste_2023-12-17_18-27-39.png](https://s2.loli.net/2023/12/17/VPhpGiTrZSCY7jW.png)
 ![Snipaste_2023-12-17_18-27-49.png](https://s2.loli.net/2023/12/17/yGmLn3SxIDhjToP.png)
 
